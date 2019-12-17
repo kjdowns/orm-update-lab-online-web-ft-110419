@@ -10,6 +10,10 @@ class Student
     @id = id
   end
   
+  def self.create_table
+    
+  end
+  
 end
 
   # Remember, you can access your database connection anywhere in this class
